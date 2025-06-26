@@ -6,7 +6,7 @@ import base64
 # --- Configuration ---
 # Your API Key will be automatically provided by the Canvas environment at runtime.
 # DO NOT add your API key directly here.
-API_KEY = ""
+API_KEY = "AIzaSyABuHrz-5gw41x4Hm85ddDPSrC_8z56U54"
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 # --- Utility Function for Copy to Clipboard (for Streamlit on some platforms) ---
