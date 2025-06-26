@@ -7,7 +7,7 @@ This project showcases a sophisticated AI-powered email assistant built using Py
 ## ✨ Live Application
 
 Experience the AI Email Assistant live! Click here:
-👉 [**Launch the AI Email Assistant on Streamlit Cloud**](YOUR_STREAMLIT_APP_URL_HERE) 👈
+👉 [**Launch the AI Email Assistant on Streamlit Cloud**](https://ai-email-assistant-axv2ad79p8meh66awec9zc.streamlit.app/) 👈
 *(Remember to replace `YOUR_STREAMLIT_APP_URL_HERE` with your actual deployed app link on Streamlit Community Cloud after deployment.)*
 
 ---
